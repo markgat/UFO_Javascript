@@ -1,5 +1,5 @@
 # UFO Encounters
-Are aliens real? If so, have we already made contact with them? In any case, this application allows you to search through peoples' supposed encounters during January of 2010.
+Are aliens real? If so, have we already made contact with them? In any case, this application allows you to search through peoples' encounters during January of 2010.
 ![Sightings](ufo.png)
 ## Getting Started
 ### Installing
